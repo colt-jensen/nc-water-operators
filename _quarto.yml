@@ -3,19 +3,23 @@ project:
   output-dir: _site
 
 website:
-  title: "NC Water Operator Project"
-  description: "Learn about the North Carolina water operator recruitment study, run by the UNC School of Government and the North Carolina Rural Water Association."
+  title: "NC Water Operator Recruitment Program"
+  description: "A UNC School of Government and North Carolina Rural Water Association program that helps member utilities recruit and retain licensed operators. Learn how your utility can take part."
   navbar:
     background: primary
     pinned: true
     right:
-      - text: "English"
-        href: index.html
-      - text: "Español"
-        href: es.html
+      - text: "About"
+        href: index.html#about
+      - text: "What your utility gets"
+        href: index.html#benefits
+      - text: "What's involved"
+        href: index.html#involved
+      - text: "Opt in"
+        href: index.html#opt-in
   page-footer:
     center: |
-      A research study of the UNC School of Government and the North Carolina Rural Water Association.
+      A research program of the UNC School of Government and the North Carolina Rural Water Association.
       Reviewed by the UNC-Chapel Hill Institutional Review Board (IRB #[PENDING]).
 
 format:
@@ -26,4 +30,4 @@ format:
     anchor-sections: false
     link-external-newwindow: true
     grid:
-      body-width: 820px
+      body-width: 860px

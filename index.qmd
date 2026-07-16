@@ -1,57 +1,68 @@
 ---
 title: ""
-pagetitle: "NC Water Operator Recruitment Study"
+pagetitle: "NC Water Operator Recruitment Program for Utilities"
 ---
 
 ::: {.hero}
-# Help keep [COUNTY]'s water safe
+# Recruit and keep the operators your community depends on
 
-Your community needs its next licensed water operator. The training is closer and faster than you think, and you may already have what it takes.
+Join a UNC School of Government and North Carolina Rural Water Association program that runs a professionally produced, targeted recruitment campaign for your operator openings, at no cost to your utility.
 
-<a class="btn-apply" href="[APPLY_URL]">See the opening and apply</a>
+<a class="btn-apply" href="#opt-in">See how your utility can take part</a>
 :::
 
-## About this project {#about}
+## About the program {#about}
 
-This is a research study run by the **UNC School of Government** and the **North Carolina Rural Water Association (NCRWA)**. Rural water and wastewater utilities across North Carolina are working to hire and keep skilled operators as many current operators approach retirement.
+Many North Carolina water and wastewater utilities struggle to attract new operators and to keep the ones they hire, especially as experienced operators approach retirement. This program tests better ways to recruit operators and shares what works with utilities across the state.
 
-The study looks at how different ways of describing this career relate to who applies for these jobs and who stays in them. What we learn will help utilities across the state recruit the operators their communities depend on.
+Utilities that take part become participating sites in a research study led by the **UNC School of Government** with the **North Carolina Rural Water Association (NCRWA)**. For each participating utility, the research team builds and runs a targeted digital and mailed recruitment campaign for real operator openings, then measures which approaches attract applicants and, importantly, which attract people who stay.
 
 ::: {.callout-fact}
-**What is a water operator?** A licensed water or wastewater operator keeps a community's water safe by running the system, solving technical problems, and following safety procedures. In North Carolina, Level 1 certification takes about six months, and training walks you through every step.
+**In one sentence:** Your utility contributes its operator openings and a small amount of staff coordination. In return, you receive a funded, professionally run recruitment campaign and a set of recruitment videos that are yours to keep and reuse.
 :::
 
-## What taking part involves {#participate}
+## What your utility gets {#benefits}
 
-There are two separate things you can do on this page, and they are independent:
+- **A funded recruitment campaign for your openings.** The research team designs, runs, and pays for the targeted social media and mailed postcard campaign in your service area. You do not manage the ad spend or the logistics.
+- **Professional recruitment videos you keep.** Your utility receives a set of professionally produced operator recruitment videos that you can reuse in your own hiring efforts afterward, regardless of the study's findings.
+- **Evidence on what actually works.** You gain early access to findings on which recruitment messages attract applicants and which attract operators who stay past the first year.
+- **A partner in the workforce challenge.** You join a statewide effort to solve a shared problem, with support from UNC and NCRWA.
 
-1. **Apply for the job.** You can apply for an open water operator position at [AGENCY]. Applying does **not** require joining the research study.
-2. **Optionally join the study.** If you choose to, you can answer a short set of questions (about 5 to 10 minutes) about your confidence in job related skills and your background, and give us permission to check in with you a few times over the next two years to ask whether you are still in the role.
+## What taking part involves {#involved}
 
-Joining the study is completely voluntary. You can skip any question, decline any check in, or stop at any time. Your choice does not affect your job application or your relationship with any utility, NCRWA, or UNC.
+The program is designed to be light on your staff's time. The research team does the heavy lifting. Your utility agrees to:
 
-## Potential benefits {#benefits}
+1. **Have one or more operator openings** to recruit for during the study window.
+2. **Name a staff liaison** (often the manager or an HR contact) for occasional coordination on openings and timing.
+3. **Let the research team run the recruitment campaign** in your service area, including randomly assigning which message versions are shown. This is what makes the results valid and shareable.
+4. **Share basic hiring outcomes** (for example, how many applicants applied and were hired). Confirming an operator's later employment status is optional and light, because the study follows hired operators mainly through their own voluntary check-ins.
+5. **Sign a simple partnership and data-sharing agreement** describing these roles.
 
-We want to be clear and honest about this:
+::: {.callout-fact}
+**Who can take part:** North Carolina water or wastewater utilities, especially NCRWA members, that have or expect licensed operator vacancies during the study period. [Confirm any additional eligibility, for example service-area size or number of participating utilities: N = [4 to 6].]
+:::
 
-- **There is no direct benefit to you** from joining the research study itself.
-- The real opportunity here is **the career**: a stable, skilled, essential job that keeps your community's water safe, with a training path of about six months.
-- By taking part, you help utilities across North Carolina learn how to **recruit and keep the operators their communities need**, which benefits rural water systems statewide.
-
-## Your rights and privacy (IRB information) {#irb}
+## The research and your utility's role {#irb}
 
 ::: {.irb-box}
-This study has been reviewed by the **University of North Carolina at Chapel Hill Institutional Review Board (IRB #[PENDING])**, which protects the rights and welfare of research participants.
+This is a research study reviewed by the **University of North Carolina at Chapel Hill Institutional Review Board (IRB #[PENDING])**, which protects the rights and welfare of research participants.
 
-- **Voluntary:** Taking part in the study is your choice, and you can stop at any time with no penalty.
-- **Confidential:** Your answers are kept confidential. We store your name and contact information separately from your answers, under a code, and only the research team can see them. We report results only in combined, summary form, never in a way that could identify you.
-- **No sensitive information** is collected, and there are no expected risks beyond those of everyday life.
-- **Contact for the study:** [PI NAME], [PI EMAIL], [PI PHONE].
-- **Contact about your rights as a research participant:** UNC Office of Human Research Ethics, 919-966-3113 or IRB_subjects@unc.edu.
+- **The research participants are the individual applicants**, not your utility. Applicants take part voluntarily and their information is kept confidential and reported only in combined, summary form.
+- **Your utility's obligations are limited** to the coordination and outcome-sharing described above, under a written agreement.
+- **No sensitive personnel data is required.** The study does not ask for medical records or protected health information.
+- **Questions about the program:** [PI NAME], [PI EMAIL], [PI PHONE].
+- **Questions about research participant rights:** UNC Office of Human Research Ethics, 919-966-3113 or IRB_subjects@unc.edu.
 :::
 
-## Questions? {#contact}
+## How to opt your utility in {#opt-in}
 
-Reach the study team at **[PI EMAIL]** or **[PI PHONE]**. Prefer Spanish? Visit the [Español](es.html) version of this page.
+Getting started is straightforward:
 
-<a class="btn-apply" href="[APPLY_URL]">See the opening and apply</a>
+1. **Express interest** using the short form below, or email the study team.
+2. **Intro conversation.** We answer your questions and confirm fit and timing.
+3. **Partnership agreement.** We finalize a simple written agreement covering roles and data sharing.
+4. **Launch.** The research team builds and runs the recruitment campaign for your openings.
+
+<a class="btn-apply" href="[INTEREST_URL]">Express your utility's interest</a>
+
+Prefer to talk first? Contact **[PI NAME]** at **[PI EMAIL]** or **[PI PHONE]**.

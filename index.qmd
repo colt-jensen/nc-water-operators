@@ -63,6 +63,6 @@ Getting started is straightforward:
 3. **Partnership agreement.** We finalize a simple written agreement covering roles and data sharing.
 4. **Launch.** The research team builds and runs the recruitment campaign for your openings.
 
-<a class="btn-apply" href="[INTEREST_URL]">Express your utility's interest</a>
+<a class="btn-apply" href="https://forms.office.com/Pages/ResponsePage.aspx?id=T9WzWMkW00KvCB_KvQlWZsba8RK4xzxGti6Y0VtpY4BUMElVVENFM0lCNDBFTU8xUlhEMFJJWEQ4OS4u">Express your utility's interest</a>
 
 Prefer to talk first? Contact **[PI NAME]** at **[PI EMAIL]** or **[PI PHONE]**.

@@ -1,0 +1,57 @@
+---
+title: ""
+pagetitle: "NC Water Operator Recruitment Study"
+---
+
+::: {.hero}
+# Help keep [COUNTY]'s water safe
+
+Your community needs its next licensed water operator. The training is closer and faster than you think, and you may already have what it takes.
+
+<a class="btn-apply" href="[APPLY_URL]">See the opening and apply</a>
+:::
+
+## About this project {#about}
+
+This is a research study run by the **UNC School of Government** and the **North Carolina Rural Water Association (NCRWA)**. Rural water and wastewater utilities across North Carolina are working to hire and keep skilled operators as many current operators approach retirement.
+
+The study looks at how different ways of describing this career relate to who applies for these jobs and who stays in them. What we learn will help utilities across the state recruit the operators their communities depend on.
+
+::: {.callout-fact}
+**What is a water operator?** A licensed water or wastewater operator keeps a community's water safe by running the system, solving technical problems, and following safety procedures. In North Carolina, Level 1 certification takes about six months, and training walks you through every step.
+:::
+
+## What taking part involves {#participate}
+
+There are two separate things you can do on this page, and they are independent:
+
+1. **Apply for the job.** You can apply for an open water operator position at [AGENCY]. Applying does **not** require joining the research study.
+2. **Optionally join the study.** If you choose to, you can answer a short set of questions (about 5 to 10 minutes) about your confidence in job related skills and your background, and give us permission to check in with you a few times over the next two years to ask whether you are still in the role.
+
+Joining the study is completely voluntary. You can skip any question, decline any check in, or stop at any time. Your choice does not affect your job application or your relationship with any utility, NCRWA, or UNC.
+
+## Potential benefits {#benefits}
+
+We want to be clear and honest about this:
+
+- **There is no direct benefit to you** from joining the research study itself.
+- The real opportunity here is **the career**: a stable, skilled, essential job that keeps your community's water safe, with a training path of about six months.
+- By taking part, you help utilities across North Carolina learn how to **recruit and keep the operators their communities need**, which benefits rural water systems statewide.
+
+## Your rights and privacy (IRB information) {#irb}
+
+::: {.irb-box}
+This study has been reviewed by the **University of North Carolina at Chapel Hill Institutional Review Board (IRB #[PENDING])**, which protects the rights and welfare of research participants.
+
+- **Voluntary:** Taking part in the study is your choice, and you can stop at any time with no penalty.
+- **Confidential:** Your answers are kept confidential. We store your name and contact information separately from your answers, under a code, and only the research team can see them. We report results only in combined, summary form, never in a way that could identify you.
+- **No sensitive information** is collected, and there are no expected risks beyond those of everyday life.
+- **Contact for the study:** [PI NAME], [PI EMAIL], [PI PHONE].
+- **Contact about your rights as a research participant:** UNC Office of Human Research Ethics, 919-966-3113 or IRB_subjects@unc.edu.
+:::
+
+## Questions? {#contact}
+
+Reach the study team at **[PI EMAIL]** or **[PI PHONE]**. Prefer Spanish? Visit the [Español](es.html) version of this page.
+
+<a class="btn-apply" href="[APPLY_URL]">See the opening and apply</a>

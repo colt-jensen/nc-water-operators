@@ -1,0 +1,57 @@
+---
+title: ""
+pagetitle: "Estudio de Reclutamiento de Operadores de Agua de NC"
+---
+
+::: {.hero}
+# Ayude a mantener segura el agua de [COUNTY]
+
+Su comunidad necesita a su próximo operador de agua con licencia. La capacitación está más cerca y es más rápida de lo que cree, y quizás usted ya tiene lo que se necesita.
+
+<a class="btn-apply" href="[APPLY_URL]">Ver la vacante y solicitar</a>
+:::
+
+## Sobre este proyecto {#about}
+
+Este es un estudio de investigación dirigido por la **Facultad de Gobierno de UNC (UNC School of Government)** y la **Asociación de Agua Rural de Carolina del Norte (NCRWA)**. Los sistemas de agua rurales de Carolina del Norte están trabajando para contratar y retener operadores capacitados, ya que muchos operadores actuales están por jubilarse.
+
+El estudio examina cómo distintas maneras de describir esta carrera se relacionan con quién solicita estos trabajos y quién permanece en ellos. Lo que aprendamos ayudará a los sistemas de agua de todo el estado a reclutar a los operadores de los que dependen sus comunidades.
+
+::: {.callout-fact}
+**¿Qué es un operador de agua?** Un operador de agua o de aguas residuales con licencia mantiene segura el agua de la comunidad: opera el sistema, resuelve problemas técnicos y sigue los procedimientos de seguridad. En Carolina del Norte, la certificación de Nivel 1 toma unos seis meses, y la capacitación lo guía en cada paso.
+:::
+
+## Qué implica participar {#participate}
+
+En esta página puede hacer dos cosas distintas e independientes:
+
+1. **Solicitar el empleo.** Puede solicitar una vacante de operador de agua en [AGENCY]. Solicitar el empleo **no** requiere unirse al estudio de investigación.
+2. **Unirse al estudio (opcional).** Si lo desea, puede responder unas preguntas breves (de 5 a 10 minutos) sobre su confianza en habilidades laborales y su experiencia, y darnos permiso para contactarlo algunas veces durante los próximos dos años para preguntar si sigue en el puesto.
+
+Unirse al estudio es completamente voluntario. Puede omitir cualquier pregunta, rechazar cualquier contacto o detenerse en cualquier momento. Su decisión no afecta su solicitud de empleo ni su relación con ningún sistema de agua, NCRWA o UNC.
+
+## Beneficios posibles {#benefits}
+
+Queremos ser claros y honestos sobre esto:
+
+- **No hay un beneficio directo para usted** por unirse al estudio de investigación en sí.
+- La verdadera oportunidad es **la carrera**: un trabajo estable, capacitado y esencial que mantiene segura el agua de su comunidad, con una ruta de capacitación de unos seis meses.
+- Al participar, ayuda a los sistemas de agua de todo Carolina del Norte a aprender cómo **reclutar y retener a los operadores que sus comunidades necesitan**, lo cual beneficia a los sistemas de agua rurales de todo el estado.
+
+## Sus derechos y su privacidad (Información del IRB) {#irb}
+
+::: {.irb-box}
+Este estudio ha sido revisado por la **Junta de Revisión Institucional de la Universidad de Carolina del Norte en Chapel Hill (IRB #[PENDING])**, que protege los derechos y el bienestar de los participantes de investigación.
+
+- **Voluntario:** Participar en el estudio es su decisión, y puede detenerse en cualquier momento sin ninguna penalidad.
+- **Confidencial:** Sus respuestas se mantienen confidenciales. Guardamos su nombre e información de contacto por separado de sus respuestas, bajo un código, y solo el equipo de investigación puede verlos. Reportamos los resultados solo de forma combinada y resumida, nunca de una manera que pueda identificarlo.
+- **No se recopila información sensible**, y no hay riesgos esperados más allá de los de la vida cotidiana.
+- **Contacto sobre el estudio:** [PI NAME], [PI EMAIL], [PI PHONE].
+- **Contacto sobre sus derechos como participante:** Oficina de Ética en Investigación con Seres Humanos de UNC, 919-966-3113 o IRB_subjects@unc.edu.
+:::
+
+## ¿Preguntas? {#contact}
+
+Comuníquese con el equipo del estudio en **[PI EMAIL]** o **[PI PHONE]**. For English, visit the [English](index.html) version of this page.
+
+<a class="btn-apply" href="[APPLY_URL]">Ver la vacante y solicitar</a>

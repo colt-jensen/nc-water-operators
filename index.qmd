@@ -23,13 +23,13 @@ Many North Carolina water and wastewater utilities struggle to attract new opera
 Utilities that take part become participating sites in a research study led by **researchers at the UNC School of Government**, in partnership with the **North Carolina Rural Water Association (NCRWA)**. This is an independent research project of the investigators named below. It is not a program or service of the School of Government. For each participating utility, the research team builds and runs a targeted digital and mailed recruitment campaign for real entry-level operator openings, then measures which approaches attract applicants and, importantly, which attract people who stay.
 
 ::: {.callout-fact}
-**In one sentence:** Your utility contributes its entry-level operator openings and a small amount of staff coordination. In return, you receive a funded, professionally run recruitment campaign and free access to a set of professional recruitment videos for your own hiring.
+**In one sentence:** Your utility contributes its entry-level operator openings and a small amount of staff coordination. In return, you receive a funded, professionally run recruitment campaign and 24 months of free access to a professionally produced recruitment video for your own hiring.
 :::
 
 ## What your utility gets {#benefits}
 
 - **A funded recruitment campaign for your openings.** The research team designs, runs, and pays for the targeted social media and mailed postcard campaign in your service area. You do not manage the ad spend or the logistics.
-- **Free access to professional recruitment videos.** Your utility gets free access to a set of professionally produced operator recruitment videos to use in your own hiring efforts. Which videos you have access to may change after the first year, because the study rotates message versions as part of its random assignment.
+- **24 months of free access to a professional recruitment video.** Your utility gets free access, for 24 months, to a professionally produced operator recruitment video to use in your own hiring efforts. Which video you have access to may change after the first year, because the study rotates message versions as part of its random assignment.
 - **Evidence on what actually works.** You gain early access to findings on which recruitment messages attract applicants and which attract operators who stay past the first year.
 - **A partner in the workforce challenge.** You join a statewide effort to solve a shared problem, with support from the research team and NCRWA.
 
@@ -42,14 +42,14 @@ The program is designed to be light on your staff's time. The research team does
 3. **Let the research team add a consent option to your application and advertise your openings.** Your utility agrees to let us:
     - **Offer applicants the choice to share information.** Applicants can give informed consent to share demographic information and information about which ads they saw. This is voluntary for the applicant and is not required to apply for the job.
     - **Attach the assigned video to each application**, so we can tell which message version an applicant saw.
-    - **Run advertisements on Meta platforms (Facebook and Instagram)** that use the recruitment videos and link to your application.
+    - **Run advertisements on Meta platforms (Facebook and Instagram)** that use the recruitment videos and lead applicants to your job application through the study landing page.
 
     Randomly assigning which video each person sees is what makes the results valid and shareable.
 4. **Share basic hiring outcomes** (for example, how many applicants applied and were hired). Confirming an operator's later employment status is optional and light, because the study follows hired operators mainly through their own voluntary check-ins.
 5. **Sign a simple partnership and data-sharing agreement** describing these roles.
 
 ::: {.callout-fact}
-**Who can take part:** North Carolina water or wastewater utilities, especially NCRWA members, that have or expect **entry-level** operator vacancies during the study period. The goal is to bring new people into this work, so the campaign recruits candidates who are new to water and wastewater operations rather than experienced operators moving between utilities or current staff advancing into higher-level roles. [Confirm any additional eligibility, for example service-area size or number of participating utilities: N = [4 to 6].]
+**Who can take part:** North Carolina water or wastewater utilities, especially NCRWA members, that have or expect **entry-level** operator vacancies during the study period. The goal is to bring new people into this work, so the campaign recruits candidates who are new to water and wastewater operations rather than experienced operators moving between utilities or current staff advancing into higher-level roles.
 :::
 
 ## The research and your utility's role {#irb}

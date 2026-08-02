@@ -58,7 +58,7 @@ This is a research study reviewed by the **University of North Carolina at Chape
 - **This is an independent research project.** It is conducted by the investigators named below, in their capacity as researchers at the UNC School of Government. It is not a program, a service, or an endorsement of the School of Government or of UNC-Chapel Hill.
 - **The research participants are the individual applicants**, not your utility. Applicants take part voluntarily and their information is kept confidential and reported only in combined, summary form.
 - **Your utility's obligations are limited** to the coordination and outcome-sharing described above, under a written agreement.
-- **Personnel information is shared only with informed consent.** Information about an individual applicant or employee is shared only with that person's informed consent, and they can revoke it at any time. The study does not request medical, health, or education records protected under HIPAA or FERPA.
+- **Personnel information is shared only with informed consent.** Information about an individual applicant or employee is shared only with that person's informed consent, and they can revoke it at any time. The study does not request medical or health records protected under HIPAA.
 - **Questions about the program:** Colt Jensen ([cjensen@sog.unc.edu](mailto:cjensen@sog.unc.edu)) or Ahmed Rachid El-Khattabi ([arelkhattabi@sog.unc.edu](mailto:arelkhattabi@sog.unc.edu)), UNC School of Government.
 - **Questions about research participant rights:** UNC Office of Human Research Ethics, [919-966-3113](tel:+19199663113) or [IRB_subjects@unc.edu](mailto:IRB_subjects@unc.edu).
 :::

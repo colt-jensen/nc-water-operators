@@ -46,12 +46,10 @@ El programa está diseñado para exigir poco tiempo a su personal. El equipo de 
 
 1. **Tener una o más vacantes de operador de nivel inicial** para reclutar durante el periodo del estudio.
 2. **Designar a un enlace del personal** (con frecuencia el gerente o un contacto de recursos humanos) para coordinar ocasionalmente las vacantes y los tiempos.
-3. **Permitir que el equipo de investigación agregue una opción de consentimiento a su solicitud y anuncie sus vacantes.** Su sistema de agua acepta permitirnos:
+3. **Dar permiso al equipo de investigación para anunciar sus vacantes y agregar una opción de consentimiento.** Nosotros nos encargamos de todo esto, sin costo alguno para su sistema de agua. Solo necesitamos su permiso para:
     - **Ofrecer a los solicitantes la opción de compartir información.** Los solicitantes pueden dar su consentimiento informado para compartir información demográfica e información sobre qué anuncios vieron. Esto es voluntario para el solicitante y no se requiere para solicitar el empleo.
     - **Adjuntar el video asignado a cada solicitud**, para saber qué versión del mensaje vio el solicitante.
-    - **Publicar anuncios en las plataformas de Meta (Facebook e Instagram)** que usen los videos de reclutamiento y que lleven a los solicitantes a su solicitud de empleo a través de la página del estudio.
-
-    Asignar al azar qué video ve cada persona es lo que hace que los resultados sean válidos y se puedan compartir.
+    - **Crear, publicar y pagar la publicidad en las plataformas de Meta (Facebook e Instagram)**, usando los videos de reclutamiento y llevando a los solicitantes a su solicitud de empleo a través de la página del estudio. Usted no paga, ni configura, ni administra nada de esto.
 4. **Compartir resultados básicos de contratación** (por ejemplo, cuántas personas solicitaron y cuántas fueron contratadas). Confirmar la situación laboral posterior de un operador es opcional y sencillo, porque el estudio da seguimiento a los operadores contratados principalmente mediante sus propios contactos voluntarios.
 5. **Firmar un acuerdo sencillo de colaboración y de intercambio de datos** que describa estas funciones.
 

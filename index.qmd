@@ -39,12 +39,10 @@ The program is designed to be light on your staff's time. The research team does
 
 1. **Have one or more entry-level operator openings** to recruit for during the study window.
 2. **Name a staff liaison** (often the manager or an HR contact) for occasional coordination on openings and timing.
-3. **Let the research team add a consent option to your application and advertise your openings.** Your utility agrees to let us:
+3. **Give the research team permission to advertise your openings and add a consent option.** We do all of this ourselves, at no cost to your utility. We only need your permission to:
     - **Offer applicants the choice to share information.** Applicants can give informed consent to share demographic information and information about which ads they saw. This is voluntary for the applicant and is not required to apply for the job.
     - **Attach the assigned video to each application**, so we can tell which message version an applicant saw.
-    - **Run advertisements on Meta platforms (Facebook and Instagram)** that use the recruitment videos and lead applicants to your job application through the study landing page.
-
-    Randomly assigning which video each person sees is what makes the results valid and shareable.
+    - **Build, run, and pay for the advertising on Meta platforms (Facebook and Instagram)**, using the recruitment videos and leading applicants to your job application through the study landing page. You do not pay for, set up, or manage any of it.
 4. **Share basic hiring outcomes** (for example, how many applicants applied and were hired). Confirming an operator's later employment status is optional and light, because the study follows hired operators mainly through their own voluntary check-ins.
 5. **Sign a simple partnership and data-sharing agreement** describing these roles.
 

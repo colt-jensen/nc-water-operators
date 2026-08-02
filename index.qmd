@@ -20,7 +20,7 @@ Researchers at the UNC School of Government, working with the North Carolina Rur
 
 Many North Carolina water and wastewater utilities struggle to attract new operators and to keep the ones they hire, especially as experienced operators approach retirement. This program tests better ways to bring new people into operator work and shares what works with utilities across the state.
 
-Utilities that take part become participating sites in a research study led by **researchers at the UNC School of Government**, in partnership with the **North Carolina Rural Water Association (NCRWA)**. This is an independent research project of the investigators named below. It is not a program or service of the School of Government. For each participating utility, the research team builds and runs a targeted digital and mailed recruitment campaign for real entry-level operator openings, then measures which approaches attract applicants and, importantly, which attract people who stay.
+Utilities that take part become participating sites in a research study led by **researchers at the UNC School of Government**, in partnership with the **North Carolina Rural Water Association (NCRWA)**. For each participating utility, the research team builds and runs a targeted digital recruitment campaign for real entry-level operator openings, then measures which approaches attract applicants and, importantly, which attract people who stay.
 
 ::: {.callout-fact}
 **In one sentence:** Your utility contributes its entry-level operator openings and a small amount of staff coordination. In return, you receive a funded, professionally run recruitment campaign and 24 months of free access to a professionally produced recruitment video for your own hiring.
@@ -28,7 +28,7 @@ Utilities that take part become participating sites in a research study led by *
 
 ## What your utility gets {#benefits}
 
-- **A funded recruitment campaign for your openings.** The research team designs, runs, and pays for the targeted social media and mailed postcard campaign in your service area. You do not manage the ad spend or the logistics.
+- **A funded recruitment campaign for your openings.** The research team designs, runs, and pays for the targeted social media campaign in your service area. You do not manage the ad spend or the logistics.
 - **24 months of free access to a professional recruitment video.** Your utility gets free access, for 24 months, to a professionally produced operator recruitment video to use in your own hiring efforts. Which video you have access to may change after the first year, because the study rotates message versions as part of its random assignment.
 - **Evidence on what actually works.** You gain early access to findings on which recruitment messages attract applicants and which attract operators who stay past the first year.
 - **A partner in the workforce challenge.** You join a statewide effort to solve a shared problem, with support from the research team and NCRWA.

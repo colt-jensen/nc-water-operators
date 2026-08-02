@@ -2,7 +2,7 @@
 title: ""
 pagetitle: "Programa de Reclutamiento de Operadores de Agua de NC para Sistemas de Agua"
 lang: es
-description: "Un programa de la UNC School of Government y la North Carolina Rural Water Association que ayuda a los sistemas de agua miembros a reclutar y retener operadores con licencia. Conozca cómo puede participar su sistema de agua."
+description: "Un estudio de investigación realizado por investigadores de la UNC School of Government, en colaboración con la North Carolina Rural Water Association, sobre cómo reclutar y retener operadores de agua con licencia. Conozca cómo puede participar su sistema de agua."
 ---
 
 ::: {.lang-toggle}
@@ -18,7 +18,7 @@ description: "Un programa de la UNC School of Government y la North Carolina Rur
 ::: {.hero}
 # Reclute y retenga a los operadores de los que depende su comunidad
 
-Únase a un programa de la UNC School of Government y la North Carolina Rural Water Association que realiza una campaña de reclutamiento dirigida y producida profesionalmente para sus vacantes de operador, sin costo alguno para su sistema de agua.
+Investigadores de la UNC School of Government, en colaboración con la North Carolina Rural Water Association, realizarán una campaña de reclutamiento dirigida y producida profesionalmente para sus vacantes de operador, sin costo alguno para su sistema de agua.
 
 <a class="btn-apply" href="#opt-in">Vea cómo puede participar su sistema de agua</a>
 :::
@@ -27,7 +27,7 @@ description: "Un programa de la UNC School of Government y la North Carolina Rur
 
 Muchos sistemas de agua y de aguas residuales de Carolina del Norte tienen dificultades para atraer nuevos operadores y para retener a los que contratan, sobre todo ahora que los operadores con experiencia están por jubilarse. Este programa prueba mejores maneras de reclutar operadores y comparte lo que funciona con los sistemas de agua de todo el estado.
 
-Los sistemas de agua que participan se convierten en sitios participantes de un estudio de investigación dirigido por la **UNC School of Government** junto con la **North Carolina Rural Water Association (NCRWA)**. Para cada sistema participante, el equipo de investigación diseña y realiza una campaña de reclutamiento digital y por correo postal dirigida a vacantes reales de operador, y luego mide qué enfoques atraen solicitantes y, lo más importante, cuáles atraen a personas que permanecen en el puesto.
+Los sistemas de agua que participan se convierten en sitios participantes de un estudio de investigación dirigido por **investigadores de la UNC School of Government**, en colaboración con la **North Carolina Rural Water Association (NCRWA)**. Este es un proyecto de investigación independiente de los investigadores que aparecen más abajo. No es un programa ni un servicio de la School of Government. Para cada sistema participante, el equipo de investigación diseña y realiza una campaña de reclutamiento digital y por correo postal dirigida a vacantes reales de operador, y luego mide qué enfoques atraen solicitantes y, lo más importante, cuáles atraen a personas que permanecen en el puesto.
 
 ::: {.callout-fact}
 **En una frase:** Su sistema de agua aporta sus vacantes de operador y una pequeña cantidad de coordinación por parte del personal. A cambio, recibe una campaña de reclutamiento financiada y dirigida profesionalmente, además de un conjunto de videos de reclutamiento que puede conservar y reutilizar.
@@ -38,7 +38,7 @@ Los sistemas de agua que participan se convierten en sitios participantes de un 
 - **Una campaña de reclutamiento financiada para sus vacantes.** El equipo de investigación diseña, realiza y paga la campaña dirigida de redes sociales y de tarjetas postales por correo en su área de servicio. Usted no administra el presupuesto publicitario ni la logística.
 - **Videos de reclutamiento profesionales que usted conserva.** Su sistema de agua recibe un conjunto de videos de reclutamiento de operadores producidos profesionalmente que puede reutilizar después en sus propios esfuerzos de contratación, sin importar cuáles sean los resultados del estudio.
 - **Evidencia sobre lo que realmente funciona.** Obtiene acceso anticipado a los resultados sobre qué mensajes de reclutamiento atraen solicitantes y cuáles atraen operadores que permanecen más allá del primer año.
-- **Un socio ante el reto de personal.** Se une a un esfuerzo estatal para resolver un problema compartido, con el apoyo de UNC y NCRWA.
+- **Un socio ante el reto de personal.** Se une a un esfuerzo estatal para resolver un problema compartido, con el apoyo del equipo de investigación y de NCRWA.
 
 ## Qué implica participar {#involved}
 
@@ -59,6 +59,7 @@ El programa está diseñado para exigir poco tiempo a su personal. El equipo de 
 ::: {.irb-box}
 Este es un estudio de investigación revisado por la **Junta de Revisión Institucional de la Universidad de Carolina del Norte en Chapel Hill (IRB #[PENDING])**, que protege los derechos y el bienestar de los participantes de investigación.
 
+- **Este es un proyecto de investigación independiente.** Lo realizan los investigadores que aparecen más abajo, en su calidad de investigadores de la UNC School of Government. No es un programa, ni un servicio, ni un respaldo de la School of Government ni de UNC-Chapel Hill.
 - **Los participantes de la investigación son los solicitantes individuales**, no su sistema de agua. Los solicitantes participan de forma voluntaria y su información se mantiene confidencial y se presenta solo de forma combinada y resumida.
 - **Las obligaciones de su sistema de agua se limitan** a la coordinación y al intercambio de resultados descritos arriba, bajo un acuerdo por escrito.
 - **No se requieren datos sensibles de personal.** El estudio no solicita expedientes médicos ni información de salud protegida.

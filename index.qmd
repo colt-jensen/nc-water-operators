@@ -11,7 +11,7 @@ lang: en
 ::: {.hero}
 # Recruit and keep the operators your community depends on
 
-Join a UNC School of Government and North Carolina Rural Water Association program that runs a professionally produced, targeted recruitment campaign for your operator openings, at no cost to your utility.
+Researchers at the UNC School of Government, working with the North Carolina Rural Water Association, will run a professionally produced, targeted recruitment campaign for your operator openings, at no cost to your utility.
 
 <a class="btn-apply" href="#opt-in">See how your utility can take part</a>
 :::
@@ -20,7 +20,7 @@ Join a UNC School of Government and North Carolina Rural Water Association progr
 
 Many North Carolina water and wastewater utilities struggle to attract new operators and to keep the ones they hire, especially as experienced operators approach retirement. This program tests better ways to recruit operators and shares what works with utilities across the state.
 
-Utilities that take part become participating sites in a research study led by the **UNC School of Government** with the **North Carolina Rural Water Association (NCRWA)**. For each participating utility, the research team builds and runs a targeted digital and mailed recruitment campaign for real operator openings, then measures which approaches attract applicants and, importantly, which attract people who stay.
+Utilities that take part become participating sites in a research study led by **researchers at the UNC School of Government**, in partnership with the **North Carolina Rural Water Association (NCRWA)**. This is an independent research project of the investigators named below. It is not a program or service of the School of Government. For each participating utility, the research team builds and runs a targeted digital and mailed recruitment campaign for real operator openings, then measures which approaches attract applicants and, importantly, which attract people who stay.
 
 ::: {.callout-fact}
 **In one sentence:** Your utility contributes its operator openings and a small amount of staff coordination. In return, you receive a funded, professionally run recruitment campaign and a set of recruitment videos that are yours to keep and reuse.
@@ -31,7 +31,7 @@ Utilities that take part become participating sites in a research study led by t
 - **A funded recruitment campaign for your openings.** The research team designs, runs, and pays for the targeted social media and mailed postcard campaign in your service area. You do not manage the ad spend or the logistics.
 - **Professional recruitment videos you keep.** Your utility receives a set of professionally produced operator recruitment videos that you can reuse in your own hiring efforts afterward, regardless of the study's findings.
 - **Evidence on what actually works.** You gain early access to findings on which recruitment messages attract applicants and which attract operators who stay past the first year.
-- **A partner in the workforce challenge.** You join a statewide effort to solve a shared problem, with support from UNC and NCRWA.
+- **A partner in the workforce challenge.** You join a statewide effort to solve a shared problem, with support from the research team and NCRWA.
 
 ## What taking part involves {#involved}
 
@@ -52,6 +52,7 @@ The program is designed to be light on your staff's time. The research team does
 ::: {.irb-box}
 This is a research study reviewed by the **University of North Carolina at Chapel Hill Institutional Review Board (IRB #[PENDING])**, which protects the rights and welfare of research participants.
 
+- **This is an independent research project.** It is conducted by the investigators named below, in their capacity as researchers at the UNC School of Government. It is not a program, a service, or an endorsement of the School of Government or of UNC-Chapel Hill.
 - **The research participants are the individual applicants**, not your utility. Applicants take part voluntarily and their information is kept confidential and reported only in combined, summary form.
 - **Your utility's obligations are limited** to the coordination and outcome-sharing described above, under a written agreement.
 - **No sensitive personnel data is required.** The study does not ask for medical records or protected health information.

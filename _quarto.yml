@@ -4,7 +4,7 @@ project:
 
 website:
   title: "NC Water Operator Recruitment Program"
-  description: "A UNC School of Government and North Carolina Rural Water Association program that helps member utilities recruit and retain licensed operators. Learn how your utility can take part."
+  description: "A research study by researchers at the UNC School of Government, in partnership with the North Carolina Rural Water Association, on how to recruit and retain licensed water operators. Learn how your utility can take part."
   navbar:
     background: primary
     pinned: true
@@ -26,8 +26,12 @@ website:
         href: es.html
   page-footer:
     center: |
-      A research program of the UNC School of Government and the North Carolina Rural Water Association.
+      An independent research study by researchers at the UNC School of Government, in partnership with the North Carolina Rural Water Association.
+      It is not a program or service of the School of Government, and views expressed here are the investigators' own.
       Reviewed by the UNC-Chapel Hill Institutional Review Board (IRB #[PENDING]).
+
+      Estudio de investigación independiente realizado por investigadores de la UNC School of Government, en colaboración con la North Carolina Rural Water Association.
+      No es un programa ni un servicio de la School of Government.
 
 format:
   html:

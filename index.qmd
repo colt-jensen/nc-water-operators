@@ -1,7 +1,12 @@
 ---
 title: ""
 pagetitle: "NC Water Operator Recruitment Program for Utilities"
+lang: en
 ---
+
+::: {.lang-toggle}
+[Lea esta página en español](es.html)
+:::
 
 ::: {.hero}
 # Recruit and keep the operators your community depends on

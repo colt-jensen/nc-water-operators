@@ -8,15 +8,22 @@ website:
   navbar:
     background: primary
     pinned: true
-    right:
+    # Section links are page-relative (#about, not index.html#about) so they work on
+    # both the English and Spanish pages, which share the same section IDs.
+    left:
       - text: "About"
-        href: index.html#about
+        href: "#about"
       - text: "What your utility gets"
-        href: index.html#benefits
+        href: "#benefits"
       - text: "What's involved"
-        href: index.html#involved
+        href: "#involved"
       - text: "Opt in"
-        href: index.html#opt-in
+        href: "#opt-in"
+    right:
+      - text: "English"
+        href: index.html
+      - text: "Español"
+        href: es.html
   page-footer:
     center: |
       A research program of the UNC School of Government and the North Carolina Rural Water Association.
@@ -31,3 +38,15 @@ format:
     link-external-newwindow: true
     grid:
       body-width: 860px
+    # Quarto rewrites a bare "#about" navbar href to "./#about". On es.html that
+    # resolves to the site root (index.html), so section links would bounce Spanish
+    # readers to the English page. Strip the "./" so they stay in-page on whichever
+    # language the reader is on. Without JS the links behave as they did before, so
+    # this only ever improves matters.
+    include-after-body:
+      text: |
+        <script>
+          document.querySelectorAll('.navbar a[href^="./#"]').forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(2));
+          });
+        </script>

@@ -1,0 +1,84 @@
+---
+title: ""
+pagetitle: "Programa de Reclutamiento de Operadores de Agua de NC para Sistemas de Agua"
+lang: es
+description: "Un programa de la UNC School of Government y la North Carolina Rural Water Association que ayuda a los sistemas de agua miembros a reclutar y retener operadores con licencia. Conozca cómo puede participar su sistema de agua."
+---
+
+::: {.lang-toggle}
+[Read this page in English](index.html)
+:::
+
+::: {.translation-note}
+**Traducción automática.** Esta página fue traducida del inglés con inteligencia artificial y puede contener errores. La versión en inglés es la versión oficial del programa. Si algo no está claro, comuníquese con el equipo del estudio y con gusto se lo explicamos.
+
+*This page was machine-translated from English and may contain errors. The [English version](index.html) is authoritative.*
+:::
+
+::: {.hero}
+# Reclute y retenga a los operadores de los que depende su comunidad
+
+Únase a un programa de la UNC School of Government y la North Carolina Rural Water Association que realiza una campaña de reclutamiento dirigida y producida profesionalmente para sus vacantes de operador, sin costo alguno para su sistema de agua.
+
+<a class="btn-apply" href="#opt-in">Vea cómo puede participar su sistema de agua</a>
+:::
+
+## Sobre el programa {#about}
+
+Muchos sistemas de agua y de aguas residuales de Carolina del Norte tienen dificultades para atraer nuevos operadores y para retener a los que contratan, sobre todo ahora que los operadores con experiencia están por jubilarse. Este programa prueba mejores maneras de reclutar operadores y comparte lo que funciona con los sistemas de agua de todo el estado.
+
+Los sistemas de agua que participan se convierten en sitios participantes de un estudio de investigación dirigido por la **UNC School of Government** junto con la **North Carolina Rural Water Association (NCRWA)**. Para cada sistema participante, el equipo de investigación diseña y realiza una campaña de reclutamiento digital y por correo postal dirigida a vacantes reales de operador, y luego mide qué enfoques atraen solicitantes y, lo más importante, cuáles atraen a personas que permanecen en el puesto.
+
+::: {.callout-fact}
+**En una frase:** Su sistema de agua aporta sus vacantes de operador y una pequeña cantidad de coordinación por parte del personal. A cambio, recibe una campaña de reclutamiento financiada y dirigida profesionalmente, además de un conjunto de videos de reclutamiento que puede conservar y reutilizar.
+:::
+
+## Qué recibe su sistema de agua {#benefits}
+
+- **Una campaña de reclutamiento financiada para sus vacantes.** El equipo de investigación diseña, realiza y paga la campaña dirigida de redes sociales y de tarjetas postales por correo en su área de servicio. Usted no administra el presupuesto publicitario ni la logística.
+- **Videos de reclutamiento profesionales que usted conserva.** Su sistema de agua recibe un conjunto de videos de reclutamiento de operadores producidos profesionalmente que puede reutilizar después en sus propios esfuerzos de contratación, sin importar cuáles sean los resultados del estudio.
+- **Evidencia sobre lo que realmente funciona.** Obtiene acceso anticipado a los resultados sobre qué mensajes de reclutamiento atraen solicitantes y cuáles atraen operadores que permanecen más allá del primer año.
+- **Un socio ante el reto de personal.** Se une a un esfuerzo estatal para resolver un problema compartido, con el apoyo de UNC y NCRWA.
+
+## Qué implica participar {#involved}
+
+El programa está diseñado para exigir poco tiempo a su personal. El equipo de investigación se encarga del trabajo pesado. Su sistema de agua se compromete a:
+
+1. **Tener una o más vacantes de operador** para reclutar durante el periodo del estudio.
+2. **Designar a un enlace del personal** (con frecuencia el gerente o un contacto de recursos humanos) para coordinar ocasionalmente las vacantes y los tiempos.
+3. **Permitir que el equipo de investigación realice la campaña de reclutamiento** en su área de servicio, lo que incluye asignar al azar qué versiones de los mensajes se muestran. Esto es lo que hace que los resultados sean válidos y se puedan compartir.
+4. **Compartir resultados básicos de contratación** (por ejemplo, cuántas personas solicitaron y cuántas fueron contratadas). Confirmar la situación laboral posterior de un operador es opcional y sencillo, porque el estudio da seguimiento a los operadores contratados principalmente mediante sus propios contactos voluntarios.
+5. **Firmar un acuerdo sencillo de colaboración y de intercambio de datos** que describa estas funciones.
+
+::: {.callout-fact}
+**Quién puede participar:** Sistemas de agua o de aguas residuales de Carolina del Norte, especialmente miembros de NCRWA, que tengan o prevean vacantes de operador con licencia durante el periodo del estudio. [Confirmar cualquier requisito adicional, por ejemplo el tamaño del área de servicio o el número de sistemas participantes: N = [4 a 6].]
+:::
+
+## La investigación y el papel de su sistema de agua {#irb}
+
+::: {.irb-box}
+Este es un estudio de investigación revisado por la **Junta de Revisión Institucional de la Universidad de Carolina del Norte en Chapel Hill (IRB #[PENDING])**, que protege los derechos y el bienestar de los participantes de investigación.
+
+- **Los participantes de la investigación son los solicitantes individuales**, no su sistema de agua. Los solicitantes participan de forma voluntaria y su información se mantiene confidencial y se presenta solo de forma combinada y resumida.
+- **Las obligaciones de su sistema de agua se limitan** a la coordinación y al intercambio de resultados descritos arriba, bajo un acuerdo por escrito.
+- **No se requieren datos sensibles de personal.** El estudio no solicita expedientes médicos ni información de salud protegida.
+- **Preguntas sobre el programa:** Colt Jensen ([cjensen@sog.unc.edu](mailto:cjensen@sog.unc.edu)) o Ahmed Rachid El-Khattabi ([arelkhattabi@sog.unc.edu](mailto:arelkhattabi@sog.unc.edu)), UNC School of Government.
+- **Preguntas sobre los derechos de los participantes de investigación:** Oficina de Ética en Investigación con Seres Humanos de UNC, [919-966-3113](tel:+19199663113) o [IRB_subjects@unc.edu](mailto:IRB_subjects@unc.edu).
+:::
+
+## Cómo inscribir a su sistema de agua {#opt-in}
+
+Comenzar es sencillo:
+
+1. **Exprese su interés** con el formulario breve que aparece abajo, o escriba al equipo del estudio.
+2. **Conversación inicial.** Respondemos sus preguntas y confirmamos si el programa encaja y en qué momento.
+3. **Acuerdo de colaboración.** Finalizamos un acuerdo sencillo por escrito que cubre las funciones y el intercambio de datos.
+4. **Lanzamiento.** El equipo de investigación diseña y realiza la campaña de reclutamiento para sus vacantes.
+
+<a class="btn-apply" href="https://forms.office.com/Pages/ResponsePage.aspx?id=T9WzWMkW00KvCB_KvQlWZsba8RK4xzxGti6Y0VtpY4BUMElVVENFM0lCNDBFTU8xUlhEMFJJWEQ4OS4u">Exprese el interés de su sistema de agua</a>
+
+::: {.form-language-note}
+El formulario de interés está disponible solo en inglés. Si prefiere responder en español, escriba directamente al equipo del estudio y le ayudamos.
+:::
+
+¿Prefiere hablar primero? Comuníquese con **Colt Jensen** en [cjensen@sog.unc.edu](mailto:cjensen@sog.unc.edu) o con **Ahmed Rachid El-Khattabi** en [arelkhattabi@sog.unc.edu](mailto:arelkhattabi@sog.unc.edu).

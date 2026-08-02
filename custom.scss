@@ -45,3 +45,40 @@ $headings-font-weight: 700;
   border-radius: 8px;
   font-size: .95rem;
 }
+
+// Language switch, sits above the hero on both pages.
+.lang-toggle {
+  text-align: right;
+  font-size: .95rem;
+  margin: .4rem 0 0 0;
+
+  a {
+    display: inline-block;
+    padding: .35rem .75rem;
+    border: 1px solid #cfd8e6;
+    border-radius: 999px;
+    text-decoration: none;
+    background: #fbfcfe;
+  }
+  a:hover { background: #eef2f8; }
+}
+
+// Machine-translation disclaimer. Spanish page only. Deliberately plainer than the
+// hero so it reads as a notice rather than as marketing.
+.translation-note {
+  border-left: 5px solid #F0A500;
+  background: #fffaf0;
+  padding: .9rem 1.1rem;
+  border-radius: 8px;
+  margin: .8rem 0 0 0;
+  font-size: .93rem;
+
+  p:last-child { margin-bottom: 0; }
+  em { color: #5a6472; }
+}
+
+.form-language-note {
+  font-size: .93rem;
+  color: #5a6472;
+  margin: .6rem 0 1.2rem 0;
+}

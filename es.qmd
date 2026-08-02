@@ -18,19 +18,19 @@ description: "Un estudio de investigación realizado por investigadores de la UN
 ::: {.hero}
 # Reclute y retenga a los operadores de los que depende su comunidad
 
-Investigadores de la UNC School of Government, en colaboración con la North Carolina Rural Water Association, realizarán una campaña de reclutamiento dirigida y producida profesionalmente para sus vacantes de operador, sin costo alguno para su sistema de agua.
+Investigadores de la UNC School of Government, en colaboración con la North Carolina Rural Water Association, realizarán una campaña de reclutamiento dirigida y producida profesionalmente para sus vacantes de operador de nivel inicial, sin costo alguno para su sistema de agua.
 
 <a class="btn-apply" href="#opt-in">Vea cómo puede participar su sistema de agua</a>
 :::
 
 ## Sobre el programa {#about}
 
-Muchos sistemas de agua y de aguas residuales de Carolina del Norte tienen dificultades para atraer nuevos operadores y para retener a los que contratan, sobre todo ahora que los operadores con experiencia están por jubilarse. Este programa prueba mejores maneras de reclutar operadores y comparte lo que funciona con los sistemas de agua de todo el estado.
+Muchos sistemas de agua y de aguas residuales de Carolina del Norte tienen dificultades para atraer nuevos operadores y para retener a los que contratan, sobre todo ahora que los operadores con experiencia están por jubilarse. Este programa prueba mejores maneras de atraer nuevas personas al trabajo de operador y comparte lo que funciona con los sistemas de agua de todo el estado.
 
-Los sistemas de agua que participan se convierten en sitios participantes de un estudio de investigación dirigido por **investigadores de la UNC School of Government**, en colaboración con la **North Carolina Rural Water Association (NCRWA)**. Este es un proyecto de investigación independiente de los investigadores que aparecen más abajo. No es un programa ni un servicio de la School of Government. Para cada sistema participante, el equipo de investigación diseña y realiza una campaña de reclutamiento digital y por correo postal dirigida a vacantes reales de operador, y luego mide qué enfoques atraen solicitantes y, lo más importante, cuáles atraen a personas que permanecen en el puesto.
+Los sistemas de agua que participan se convierten en sitios participantes de un estudio de investigación dirigido por **investigadores de la UNC School of Government**, en colaboración con la **North Carolina Rural Water Association (NCRWA)**. Este es un proyecto de investigación independiente de los investigadores que aparecen más abajo. No es un programa ni un servicio de la School of Government. Para cada sistema participante, el equipo de investigación diseña y realiza una campaña de reclutamiento digital y por correo postal dirigida a vacantes reales de operador de nivel inicial, y luego mide qué enfoques atraen solicitantes y, lo más importante, cuáles atraen a personas que permanecen en el puesto.
 
 ::: {.callout-fact}
-**En una frase:** Su sistema de agua aporta sus vacantes de operador y una pequeña cantidad de coordinación por parte del personal. A cambio, recibe una campaña de reclutamiento financiada y dirigida profesionalmente, además de acceso gratuito a un conjunto de videos de reclutamiento profesionales para su propia contratación.
+**En una frase:** Su sistema de agua aporta sus vacantes de operador de nivel inicial y una pequeña cantidad de coordinación por parte del personal. A cambio, recibe una campaña de reclutamiento financiada y dirigida profesionalmente, además de acceso gratuito a un conjunto de videos de reclutamiento profesionales para su propia contratación.
 :::
 
 ## Qué recibe su sistema de agua {#benefits}
@@ -44,14 +44,14 @@ Los sistemas de agua que participan se convierten en sitios participantes de un 
 
 El programa está diseñado para exigir poco tiempo a su personal. El equipo de investigación se encarga del trabajo pesado. Su sistema de agua se compromete a:
 
-1. **Tener una o más vacantes de operador** para reclutar durante el periodo del estudio.
+1. **Tener una o más vacantes de operador de nivel inicial** para reclutar durante el periodo del estudio.
 2. **Designar a un enlace del personal** (con frecuencia el gerente o un contacto de recursos humanos) para coordinar ocasionalmente las vacantes y los tiempos.
 3. **Permitir que el equipo de investigación realice la campaña de reclutamiento** en su área de servicio, lo que incluye asignar al azar qué versiones de los mensajes se muestran. Esto es lo que hace que los resultados sean válidos y se puedan compartir.
 4. **Compartir resultados básicos de contratación** (por ejemplo, cuántas personas solicitaron y cuántas fueron contratadas). Confirmar la situación laboral posterior de un operador es opcional y sencillo, porque el estudio da seguimiento a los operadores contratados principalmente mediante sus propios contactos voluntarios.
 5. **Firmar un acuerdo sencillo de colaboración y de intercambio de datos** que describa estas funciones.
 
 ::: {.callout-fact}
-**Quién puede participar:** Sistemas de agua o de aguas residuales de Carolina del Norte, especialmente miembros de NCRWA, que tengan o prevean vacantes de operador con licencia durante el periodo del estudio. [Confirmar cualquier requisito adicional, por ejemplo el tamaño del área de servicio o el número de sistemas participantes: N = [4 a 6].]
+**Quién puede participar:** Sistemas de agua o de aguas residuales de Carolina del Norte, especialmente miembros de NCRWA, que tengan o prevean vacantes de operador **de nivel inicial** durante el periodo del estudio. El objetivo es atraer nuevas personas a este trabajo, por lo que la campaña recluta candidatos que son nuevos en la operación de sistemas de agua y aguas residuales, y no operadores con experiencia que cambian de sistema ni personal actual que asciende a puestos de mayor nivel. [Confirmar cualquier requisito adicional, por ejemplo el tamaño del área de servicio o el número de sistemas participantes: N = [4 a 6].]
 :::
 
 ## La investigación y el papel de su sistema de agua {#irb}

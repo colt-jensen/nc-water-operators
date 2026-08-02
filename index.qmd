@@ -11,19 +11,19 @@ lang: en
 ::: {.hero}
 # Recruit and keep the operators your community depends on
 
-Researchers at the UNC School of Government, working with the North Carolina Rural Water Association, will run a professionally produced, targeted recruitment campaign for your operator openings, at no cost to your utility.
+Researchers at the UNC School of Government, working with the North Carolina Rural Water Association, will run a professionally produced, targeted recruitment campaign for your entry-level operator openings, at no cost to your utility.
 
 <a class="btn-apply" href="#opt-in">See how your utility can take part</a>
 :::
 
 ## About the program {#about}
 
-Many North Carolina water and wastewater utilities struggle to attract new operators and to keep the ones they hire, especially as experienced operators approach retirement. This program tests better ways to recruit operators and shares what works with utilities across the state.
+Many North Carolina water and wastewater utilities struggle to attract new operators and to keep the ones they hire, especially as experienced operators approach retirement. This program tests better ways to bring new people into operator work and shares what works with utilities across the state.
 
-Utilities that take part become participating sites in a research study led by **researchers at the UNC School of Government**, in partnership with the **North Carolina Rural Water Association (NCRWA)**. This is an independent research project of the investigators named below. It is not a program or service of the School of Government. For each participating utility, the research team builds and runs a targeted digital and mailed recruitment campaign for real operator openings, then measures which approaches attract applicants and, importantly, which attract people who stay.
+Utilities that take part become participating sites in a research study led by **researchers at the UNC School of Government**, in partnership with the **North Carolina Rural Water Association (NCRWA)**. This is an independent research project of the investigators named below. It is not a program or service of the School of Government. For each participating utility, the research team builds and runs a targeted digital and mailed recruitment campaign for real entry-level operator openings, then measures which approaches attract applicants and, importantly, which attract people who stay.
 
 ::: {.callout-fact}
-**In one sentence:** Your utility contributes its operator openings and a small amount of staff coordination. In return, you receive a funded, professionally run recruitment campaign and free access to a set of professional recruitment videos for your own hiring.
+**In one sentence:** Your utility contributes its entry-level operator openings and a small amount of staff coordination. In return, you receive a funded, professionally run recruitment campaign and free access to a set of professional recruitment videos for your own hiring.
 :::
 
 ## What your utility gets {#benefits}
@@ -37,14 +37,14 @@ Utilities that take part become participating sites in a research study led by *
 
 The program is designed to be light on your staff's time. The research team does the heavy lifting. Your utility agrees to:
 
-1. **Have one or more operator openings** to recruit for during the study window.
+1. **Have one or more entry-level operator openings** to recruit for during the study window.
 2. **Name a staff liaison** (often the manager or an HR contact) for occasional coordination on openings and timing.
 3. **Let the research team run the recruitment campaign** in your service area, including randomly assigning which message versions are shown. This is what makes the results valid and shareable.
 4. **Share basic hiring outcomes** (for example, how many applicants applied and were hired). Confirming an operator's later employment status is optional and light, because the study follows hired operators mainly through their own voluntary check-ins.
 5. **Sign a simple partnership and data-sharing agreement** describing these roles.
 
 ::: {.callout-fact}
-**Who can take part:** North Carolina water or wastewater utilities, especially NCRWA members, that have or expect licensed operator vacancies during the study period. [Confirm any additional eligibility, for example service-area size or number of participating utilities: N = [4 to 6].]
+**Who can take part:** North Carolina water or wastewater utilities, especially NCRWA members, that have or expect **entry-level** operator vacancies during the study period. The goal is to bring new people into this work, so the campaign recruits candidates who are new to water and wastewater operations rather than experienced operators moving between utilities or current staff advancing into higher-level roles. [Confirm any additional eligibility, for example service-area size or number of participating utilities: N = [4 to 6].]
 :::
 
 ## The research and your utility's role {#irb}

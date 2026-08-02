@@ -63,6 +63,37 @@ This is a research study reviewed by the **University of North Carolina at Chape
 - **Questions about research participant rights:** UNC Office of Human Research Ethics, [919-966-3113](tel:+19199663113) or [IRB_subjects@unc.edu](mailto:IRB_subjects@unc.edu).
 :::
 
+## Expected timeline {#timeline}
+
+::: {.timeline}
+
+::: {.tl-item}
+[September 2026]{.tl-date}
+UNC Institutional Review Board approval (anticipated).
+:::
+
+::: {.tl-item}
+[October 2026]{.tl-date}
+Meet with interested water and wastewater utilities to confirm participation.
+:::
+
+::: {.tl-item}
+[October to December 2026]{.tl-date}
+Record and produce recruiting messages.
+:::
+
+::: {.tl-item}
+[January 2027]{.tl-date}
+Begin implementing the recruiting partnership. Campaigns launch in participating service areas.
+:::
+
+::: {.tl-item}
+[2027 to 2029]{.tl-date}
+Campaigns run, and follow-up with hired operators continues for up to 24 months after hire.
+:::
+
+:::
+
 ## How to opt your utility in {#opt-in}
 
 Getting started is straightforward:

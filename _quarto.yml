@@ -17,6 +17,8 @@ website:
         href: "#benefits"
       - text: "What's involved"
         href: "#involved"
+      - text: "Timeline"
+        href: "#timeline"
       - text: "Opt in"
         href: "#opt-in"
     right:

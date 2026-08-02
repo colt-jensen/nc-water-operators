@@ -70,6 +70,37 @@ Este es un estudio de investigación revisado por la **Junta de Revisión Instit
 - **Preguntas sobre los derechos de los participantes de investigación:** Oficina de Ética en Investigación con Seres Humanos de UNC, [919-966-3113](tel:+19199663113) o [IRB_subjects@unc.edu](mailto:IRB_subjects@unc.edu).
 :::
 
+## Cronograma previsto {#timeline}
+
+::: {.timeline}
+
+::: {.tl-item}
+[Septiembre de 2026]{.tl-date}
+Aprobación de la Junta de Revisión Institucional de UNC (prevista).
+:::
+
+::: {.tl-item}
+[Octubre de 2026]{.tl-date}
+Reuniones con los sistemas de agua y de aguas residuales interesados para confirmar su participación.
+:::
+
+::: {.tl-item}
+[Octubre a diciembre de 2026]{.tl-date}
+Grabación y producción de los mensajes de reclutamiento.
+:::
+
+::: {.tl-item}
+[Enero de 2027]{.tl-date}
+Inicio de la colaboración de reclutamiento. Las campañas se lanzan en las áreas de servicio participantes.
+:::
+
+::: {.tl-item}
+[2027 a 2029]{.tl-date}
+Las campañas se desarrollan y el seguimiento de los operadores contratados continúa hasta por 24 meses después de la contratación.
+:::
+
+:::
+
 ## Cómo inscribir a su sistema de agua {#opt-in}
 
 Comenzar es sencillo:

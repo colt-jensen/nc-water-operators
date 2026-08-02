@@ -77,6 +77,43 @@ $headings-font-weight: 700;
   em { color: #5a6472; }
 }
 
+// Expected timeline. Dated markers running down a rule, gold dots ringed in
+// navy to match the button/hero palette.
+.timeline {
+  position: relative;
+  margin: 1.3rem 0 1.7rem 0;
+  padding-left: 1.9rem;
+  border-left: 2px solid #cfd8e6;
+}
+.tl-item {
+  position: relative;
+  padding-bottom: 1.35rem;
+
+  &:last-child { padding-bottom: 0; }
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: -1.9rem;
+    margin-left: -1px;          // centre the dot on the 2px rule
+    transform: translateX(-50%);
+    top: .35rem;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    background: #F0A500;
+    box-shadow: 0 0 0 2px #1F3B63;
+  }
+
+  p { margin-bottom: 0; }
+}
+.tl-date {
+  display: block;
+  font-weight: 700;
+  color: #1F3B63;
+  margin-bottom: .1rem;
+}
+
 .form-language-note {
   font-size: .93rem;
   color: #5a6472;

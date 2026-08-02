@@ -50,8 +50,8 @@ This is a research study reviewed by the **University of North Carolina at Chape
 - **The research participants are the individual applicants**, not your utility. Applicants take part voluntarily and their information is kept confidential and reported only in combined, summary form.
 - **Your utility's obligations are limited** to the coordination and outcome-sharing described above, under a written agreement.
 - **No sensitive personnel data is required.** The study does not ask for medical records or protected health information.
-- **Questions about the program:** [PI NAME], [PI EMAIL], [PI PHONE].
-- **Questions about research participant rights:** UNC Office of Human Research Ethics, 919-966-3113 or IRB_subjects@unc.edu.
+- **Questions about the program:** Colt Jensen ([cjensen@sog.unc.edu](mailto:cjensen@sog.unc.edu)) or Ahmed Rachid El-Khattabi ([arelkhattabi@sog.unc.edu](mailto:arelkhattabi@sog.unc.edu)), UNC School of Government.
+- **Questions about research participant rights:** UNC Office of Human Research Ethics, [919-966-3113](tel:+19199663113) or [IRB_subjects@unc.edu](mailto:IRB_subjects@unc.edu).
 :::
 
 ## How to opt your utility in {#opt-in}
@@ -65,4 +65,4 @@ Getting started is straightforward:
 
 <a class="btn-apply" href="https://forms.office.com/Pages/ResponsePage.aspx?id=T9WzWMkW00KvCB_KvQlWZsba8RK4xzxGti6Y0VtpY4BUMElVVENFM0lCNDBFTU8xUlhEMFJJWEQ4OS4u">Express your utility's interest</a>
 
-Prefer to talk first? Contact **[PI NAME]** at **[PI EMAIL]** or **[PI PHONE]**.
+Prefer to talk first? Contact **Colt Jensen** at [cjensen@sog.unc.edu](mailto:cjensen@sog.unc.edu) or **Ahmed Rachid El-Khattabi** at [arelkhattabi@sog.unc.edu](mailto:arelkhattabi@sog.unc.edu).
